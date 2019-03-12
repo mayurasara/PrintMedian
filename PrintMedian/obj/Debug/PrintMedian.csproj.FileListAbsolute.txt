@@ -10,3 +10,4 @@ D:\Projects\PrintMedian\PrintMedian\PrintMedian\obj\Debug\PrintMedian.csproj.Cor
 D:\Projects\PrintMedian\PrintMedian\PrintMedian\obj\Debug\PrintMedian.csproj.CopyComplete
 D:\Projects\PrintMedian\PrintMedian\PrintMedian\obj\Debug\PrintMedian.exe
 D:\Projects\PrintMedian\PrintMedian\PrintMedian\obj\Debug\PrintMedian.pdb
+D:\Projects\PrintMedian\PrintMedian\PrintMedian\obj\Debug\PrintMedian.csprojAssemblyReference.cache

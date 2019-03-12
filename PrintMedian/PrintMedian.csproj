@@ -5,7 +5,7 @@
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
     <ProjectGuid>{2D57CDAF-9655-4013-A111-8864854F38D5}</ProjectGuid>
-    <OutputType>WinExe</OutputType>
+    <OutputType>Exe</OutputType>
     <RootNamespace>PrintMedian</RootNamespace>
     <AssemblyName>PrintMedian</AssemblyName>
     <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
